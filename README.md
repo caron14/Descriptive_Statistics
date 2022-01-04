@@ -1,3 +1,5 @@
+[![Open In Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/caron14/Descriptive_Statistics/blob/master/Descriptive_Statistics.ipynb)
+
 # Descriptive Statistics
 Tutorial of descriptive statistics in Python.
 
